@@ -63,7 +63,7 @@ The dataset includes:
 
 ## 📁 Files Included
 - Dashboard.pbix – Power BI project file  
-- job_postings_flat.xlsx – Dataset  
+- https://drive.google.com/drive/folders/1DsLqC5OZt6fnUV8UksMhKnjWrNEG89xz – Dataset  
 - README.md – Project documentation  
 
 ---
