@@ -59,14 +59,11 @@ The dataset includes:
 
 ---
 
-## 🖥 Dashboard Preview
-Add a screenshot here once available (dashboard.png).
 
----
 
 ## 📁 Files Included
 - Dashboard.pbix – Power BI project file  
-- employee_data.csv – Dataset  
+- job_postings_flat.xlsx – Dataset  
 - README.md – Project documentation  
 
 ---
